@@ -1,4 +1,4 @@
-# Youtube_Mp3_WinForm
+# Youtube Mp3 WinForm
 It's a simple application made with c# wich allows to download mp3 from Youtube.
 <br />
 <br />
